@@ -1,6 +1,6 @@
 # Hi, I'm Christian — AI + Cloud Security Engineer (In Progress)
 
-I’m transitioning into **Cloud Security & Cybersecurity**, combining hands-on AWS labs, security fundamentals, and real-world problem solving from healthcare and IT workflows.  
+I’m transitioning into **Cloud Security & Cybersecurity** with an emphasis on AI, combining hands-on AWS labs, security fundamentals, and real-world problem solving from healthcare and IT workflows.  
 I’m building a portfolio that shows real technical work — not fluff.
 
 ---
@@ -32,7 +32,7 @@ A foundational cloud security architecture I built from scratch:
 - AWS CLI automation & policy configuration  
 - Ready for GuardDuty and Security Hub enablement  
 
-**Repo:** 👉 [aws-cloud-security-monitoring-lab](gh repo clone cjpassalacqua/aws-cloud-security-monitoring-lab)
+**Repo:** 👉 [aws-cloud-security-monitoring-lab](https://github.com/cjpassalacqua?tab=repositories#:~:text=aws%2Dcloud%2Dsecurity%2Dmonitoring%2Dlab)
 
 More projects coming soon.
 
