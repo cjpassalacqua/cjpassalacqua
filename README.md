@@ -1,4 +1,4 @@
-# Hi, I'm Christian — Cloud Security Analyst in Progress
+# Hi, I'm Christian — AI + Cloud Security Engineer (In Progress)
 
 I’m transitioning into **Cloud Security & Cybersecurity**, combining hands-on AWS labs, security fundamentals, and real-world problem solving from healthcare and IT workflows.  
 I’m building a portfolio that shows real technical work — not fluff.
@@ -32,16 +32,16 @@ A foundational cloud security architecture I built from scratch:
 - AWS CLI automation & policy configuration  
 - Ready for GuardDuty and Security Hub enablement  
 
-**Repo:** 👉 [aws-cloud-security-monitoring-lab](your-repo-link-here)
+**Repo:** 👉 [aws-cloud-security-monitoring-lab](gh repo clone cjpassalacqua/aws-cloud-security-monitoring-lab)
 
 More projects coming soon.
 
 ---
 
 ## My Current Goals
-- Complete Security+ (6–8 week plan)  
+- Complete CompTIA Security+ exam
 - Build more AWS security labs  
-- Land a Cloud Security Support or Security Operations role  
+- Land a Cloud Security Support or Security Operations role by 2026
 - Strengthen automation and detection engineering skills
 
 ---
