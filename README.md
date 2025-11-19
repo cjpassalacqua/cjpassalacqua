@@ -1,4 +1,4 @@
-# Hi, I'm Christian — AI + Cloud Security Engineer (In Progress)
+# Hi, I'm Christian — AI + Cloud Cybersecurity Engineer (In Progress)
 
 I’m transitioning into **Cloud Security & Cybersecurity** with an emphasis on AI, combining hands-on AWS labs, security fundamentals, and real-world problem solving from healthcare and IT workflows.  
 I’m building a portfolio that shows real technical work — not fluff.
