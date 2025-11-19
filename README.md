@@ -41,7 +41,7 @@ More projects coming soon.
 ## My Current Goals
 - Complete CompTIA Security+ exam
 - Build more AWS security labs  
-- Land a Cloud Security Support or Security Operations role by 2026
+- Land a Cloud Security or Cybersecurity Ops role by 2026
 - Strengthen automation and detection engineering skills
 
 ---
