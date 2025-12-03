@@ -25,16 +25,25 @@ I’m building a portfolio that shows real technical work — not fluff.
 
 ## Featured Projects
 
-### 🔹 **AWS Cloud Security Monitoring Lab**
+### **AWS Cloud Security Monitoring Lab**
 A foundational cloud security architecture I built from scratch:
 - CloudTrail → S3 centralized logging pipeline  
 - Hardened IAM admin workflow + MFA  
 - AWS CLI automation & policy configuration  
 - Ready for GuardDuty and Security Hub enablement  
 
-**Repo:** 👉 [aws-cloud-security-monitoring-lab](https://github.com/cjpassalacqua?tab=repositories#:~:text=aws%2Dcloud%2Dsecurity%2Dmonitoring%2Dlab)
+**Repo:** [aws-cloud-security-monitoring-lab](https://github.com/cjpassalacqua?tab=repositories#:~:text=aws%2Dcloud%2Dsecurity%2Dmonitoring%2Dlab)
 
-More projects coming soon.
+### **Advanced-Microsoft-Sentinel-Attack-Simulation**
+Privilege Escalation • Persistence • Conditional Access Tampering • OAuth Backdoor (Full Kill Chain)
+
+This project demonstrates a full adversary attack simulation performed inside a Microsoft Sentinel security lab. The attack chain mirrors real-world cloud intrusions targeting Microsoft Entra ID (Azure AD), including: Privilege escalation, Identity persistence, OAuth backdoor creation, Conditional Access policy tampering
+Suspicious sign-ins & token behavior, Multi-location anomaly generation, UEBA + Sentinel Fusion correlation
+This simulation generated multiple high-severity incidents, detected through Microsoft Sentinel, User & Entity Behavior Analytics (UEBA), and Azure Activity Logs.
+
+**Repo**
+
+**More projects coming soon.**
 
 ---
 
