@@ -41,7 +41,7 @@ This project demonstrates a full adversary attack simulation performed inside a 
 Suspicious sign-ins & token behavior, Multi-location anomaly generation, UEBA + Sentinel Fusion correlation
 This simulation generated multiple high-severity incidents, detected through Microsoft Sentinel, User & Entity Behavior Analytics (UEBA), and Azure Activity Logs.
 
-**Repo**
+**Repo**: https://github.com/cjpassalacqua/Advanced-Microsoft-Sentinel-Attack-Simulation
 
 **More projects coming soon.**
 
