@@ -43,6 +43,8 @@ This simulation generated multiple high-severity incidents, detected through Mic
 
 **Repo**: [Advanced-Microsoft-Sentinel-Attack](https://github.com/cjpassalacqua/Advanced-Microsoft-Sentinel-Attack-Simulation)  
 
+---
+
 **More projects coming soon.**
 
 ---
