@@ -51,9 +51,9 @@ This simulation generated multiple high-severity incidents, detected through Mic
 
 ## My Current Goals
 - Complete CompTIA Security+ exam
-- Build more AWS security labs  
+- Build more AWS and Azure security labs  
 - Land a Cloud Security or Cybersecurity Ops role by 2026
-- Strengthen automation and detection engineering skills
+- Strengthen AI, automation and threat detection engineering skills
 
 ---
 
