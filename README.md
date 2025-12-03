@@ -32,7 +32,7 @@ A foundational cloud security architecture I built from scratch:
 - AWS CLI automation & policy configuration  
 - Ready for GuardDuty and Security Hub enablement  
 
-**Repo:** [aws-cloud-security-monitoring-lab](https://github.com/cjpassalacqua?tab=repositories#:~:text=aws%2Dcloud%2Dsecurity%2Dmonitoring%2Dlab)
+**Repo:** [AWS-cloud-security-monitoring-lab](https://github.com/cjpassalacqua?tab=repositories#:~:text=aws%2Dcloud%2Dsecurity%2Dmonitoring%2Dlab)
 
 ### **Advanced-Microsoft-Sentinel-Attack-Simulation**
 Privilege Escalation • Persistence • Conditional Access Tampering • OAuth Backdoor (Full Kill Chain)
@@ -41,7 +41,7 @@ This project demonstrates a full adversary attack simulation performed inside a 
 Suspicious sign-ins & token behavior, Multi-location anomaly generation, UEBA + Sentinel Fusion correlation
 This simulation generated multiple high-severity incidents, detected through Microsoft Sentinel, User & Entity Behavior Analytics (UEBA), and Azure Activity Logs.
 
-**Repo**: https://github.com/cjpassalacqua/Advanced-Microsoft-Sentinel-Attack-Simulation
+**Repo**: [Advanced-Microsoft-Sentinel-Attack] (https://github.com/cjpassalacqua/Advanced-Microsoft-Sentinel-Attack-Simulation)  
 
 **More projects coming soon.**
 
